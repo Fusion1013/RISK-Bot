@@ -1,0 +1,139 @@
+{
+  "209702724374233089": {
+    "name": "Fusion1013",
+    "targets": [
+      {
+        "target": "Herbex",
+        "count": 3
+      },
+      {
+        "target": "Fusion1013",
+        "count": 3
+      },
+      {
+        "target": "antonuuu",
+        "count": 1
+      },
+      {
+        "target": "Wilux",
+        "count": 3
+      },
+      {
+        "target": "bot_red",
+        "count": 1
+      },
+      {
+        "target": "red_bot",
+        "count": 1
+      }
+    ]
+  },
+  "209704346319847424": {
+    "name": "Herbex",
+    "targets": [
+      {
+        "target": "Wilux",
+        "count": 3
+      },
+      {
+        "target": "bot_red",
+        "count": 1
+      },
+      {
+        "target": "Herbex",
+        "count": 3
+      },
+      {
+        "target": "Fusion1013",
+        "count": 1
+      },
+      {
+        "target": "jujje",
+        "count": 2
+      }
+    ]
+  },
+  "209739647016894467": {
+    "name": "Wilux",
+    "targets": [
+      {
+        "target": "Fusion1013",
+        "count": 4
+      },
+      {
+        "target": "Wilux",
+        "count": 4
+      },
+      {
+        "target": "antonuuu",
+        "count": 1
+      },
+      {
+        "target": "bot",
+        "count": 1
+      },
+      {
+        "target": "bot_yellow",
+        "count": 1
+      },
+      {
+        "target": "Herbex",
+        "count": 1
+      },
+      {
+        "target": "yellow_bot",
+        "count": 1
+      },
+      {
+        "target": "jujje",
+        "count": 1
+      }
+    ]
+  },
+  "131779261769056256": {
+    "name": "antonuuu",
+    "targets": [
+      {
+        "target": "bot_orange",
+        "count": 2
+      },
+      {
+        "target": "antonuuu",
+        "count": 3
+      },
+      {
+        "target": "bot_red",
+        "count": 1
+      },
+      {
+        "target": "Wilux",
+        "count": 1
+      },
+      {
+        "target": "Fusion1013",
+        "count": 1
+      }
+    ]
+  },
+  "218361102302576640": {
+    "name": "jujje",
+    "targets": [
+      {
+        "target": "jujje",
+        "count": 1
+      },
+      {
+        "target": "Herbex",
+        "count": 1
+      },
+      {
+        "target": "Fusion1013",
+        "count": 1
+      },
+      {
+        "target": "antonuuu",
+        "count": 1
+      }
+    ]
+  }
+}

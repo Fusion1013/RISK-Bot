@@ -1,0 +1,14 @@
+{
+  "name": "risk-bot",
+  "version": "1.0.0",
+  "description": "RISK Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Reutmer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
