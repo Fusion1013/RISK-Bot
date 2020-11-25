@@ -117,6 +117,7 @@ function printStats(msg){
     if(!rdFile[userId]){
         msg.channel.send('Error: User does not have any stats');
     } else {
+        // Creates a new embedded message with the player statistics
         const statEmbed = new Discord.MessageEmbed();
         statEmbed.setColor('#0099ff');
         statEmbed.setTitle(mentionedUser.username + ' Statistics');
